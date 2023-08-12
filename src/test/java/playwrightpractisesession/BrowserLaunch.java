@@ -1,4 +1,4 @@
-package com.playwright.practise;
+package playwrightpractisesession;
 
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserType;
